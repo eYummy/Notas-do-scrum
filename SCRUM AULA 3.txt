@@ -1,0 +1,24 @@
+Time box-- Tempo máximo para fazer uma cerimônioa ou Sprint
+Sprint -- corrida, arrancada, é o principal evento do SCRUM
+
+Composição de uma sprint:
+--Planejamento da Sprint
+
+--Reuniões Diárias (Daily Meeting)
+
+--Rvisão da Sprint (Review)
+
+--Retrospectiva da Sprint:
+
+Planejamento da Sprint:
+-- PO explica como vai funcionar o produto e como ele quer, o time dev descobre na tecnica como fazer oq o PO pede
+
+Reuniões Diárias (Daily Meeting):
+--O time debate oq tem a fazer, oq esta fazendo e as feitas
+
+Reviw:
+-- Time DEV apresenta para o PO o trabalho feito
+
+Retrospectiva da Sprint:
+--Reunião da equipe para Lições Aprendidas -- Transparencia é necessaria
+

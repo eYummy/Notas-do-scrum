@@ -1,0 +1,38 @@
+Desafio do desenvolvimento de Software
+
+			--Processo de desenvolvimento--
+==Concepção
+==Análise & Desing
+==Desenvolvimento
+==Testes
+==Implantação
+==Software
+==Apenas 20% do software é usado
+			
+			--Gestão de projetos--
+			
+			--Tradicional (Waterfall)--
+==Só permite que o projeto avance quando uma fase está inteiramente completa
+==Escopo definido na fase inicial do Projeto
+==Projeto é controlado por fases e marcos
+==Cliente só vê o software funcionando na fase final do projeto
+==Resistencia a mudanças 
+				
+			--Ágil 
+==Softaware construido por partes (incremental) e cada parte executase em um ciclo (interativo)
+==Escopo difinido ao longo do projeto 
+==Projeto é controlado por funcionalidades entregues
+==Cliente pode ver partes d software funcionando na parte inicial 
+==Mudanças constantes de acordo com feedbacks continuos
+
+			--SCRUM
+==SCRUM é um dos frameworks de gerenciamento de projetos ágeis;
+==Projetos usando equipes pequenas e multidisciplanares produzem os melhores resultados
+			--Pilares do SCRUM
+==Transparencia
+==Adaptação
+==Inspeção
+==Conversar mais e escrever menos
+==Demonstrar o software constantemente aos usuários e obter feddbacks constantemente
+==Requisitos mudam ao longo do tempo;
+==Aprender preogressivamente com o uso do softaware

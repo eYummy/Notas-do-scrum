@@ -1,0 +1,7 @@
+Papéis e responsabilidades 
+
+Product owner (PO) -- apenas uma pessoa, define as funcionalidades do softwares, garante que o time dev entenda oq deve ser feito
+
+Scrum master (SM) -- Garante o uso correto do SCRUM, auxilia o PO no planejamento, auxilia o time, treina o time
+
+Time de desenvolvimento (DEV) -- Possui habilidades suficientes para desenvolver, testar, criar e desenhar, seja tudo que for necessario entregar o software funcionando 
